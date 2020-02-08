@@ -4,4 +4,5 @@ izuchavane  sistemi za kontrol na koda - Modul II Programirane 10 klas
 ggggggggggggggggggggggggggggggggggggg
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 vbnmlo9999999999999999999999999999999999999
-
+hhhhhhhhhhhhhhhhhhh
+11111111111111111111111111111
